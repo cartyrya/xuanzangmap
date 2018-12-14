@@ -1,2 +1,2 @@
-# test2
-CHI-XuanzangProject
+# Xuanzang Mapping Project
+A mapping project for CHI Fellowship
